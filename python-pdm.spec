@@ -1,6 +1,6 @@
 Name:		python-pdm
 Version:	2.22.3
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/p/pdm/pdm-%{version}.tar.gz
 Summary:	A modern Python package and dependency manager supporting the latest PEP standards
 URL:		https://pypi.org/project/pdm/
